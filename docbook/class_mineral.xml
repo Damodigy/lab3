@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_product" xml:lang="en-US">
+<title>Product Class Reference</title>
+<indexterm><primary>Product</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><anchor xml:id="_class_product_1a904a24e28b6b7051d8902c8ffcc30ce3"/>void <emphasis role="strong">Init</emphasis> (int w, double p)</para>
+</listitem>
+            <listitem><para><anchor xml:id="_class_product_1a7fcaa500eee3f137f574e35054938764"/>void <emphasis role="strong">Display</emphasis> ()</para>
+</listitem>
+            <listitem><para><anchor xml:id="_class_product_1a7a683df4ebb280f0d1f8f2feec5e25aa"/>void <emphasis role="strong">Read</emphasis> ()</para>
+</listitem>
+            <listitem><para><anchor xml:id="_class_product_1a5827c81482fb4ab38f16862b3754373a"/>double <emphasis role="strong">Cost</emphasis> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<para>
+The documentation for this class was generated from the following file:</para>
+Lab 1-2.cpp</section>
